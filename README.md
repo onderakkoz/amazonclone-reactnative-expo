@@ -30,4 +30,4 @@ Bu proje React Native ve Expo kullanarak geliştirilen bir Amazon Clone uygulama
 
 ## GIF
 
-![gif](./amazonclone/assets/amazonclonegif.gif)
+![gif](./assets/amazonclonegif.gif)
